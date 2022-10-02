@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.imagenes {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.imagenes img {
+    width: 300px;
+}
